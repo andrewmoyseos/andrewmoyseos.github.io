@@ -1,0 +1,3 @@
+([('newgame',
+   '/Users/andrewmoyseos/andrewmoyseos.github.io/dist/newgame',
+   'EXECUTABLE')],)
