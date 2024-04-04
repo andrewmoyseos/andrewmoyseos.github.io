@@ -10,3 +10,18 @@ h1{
 #single{
     font-size: 20px;
     font-family:Verdana, Geneva, Tahoma, sans-serif}
+body {
+    background-color:aquamarine
+}
+
+p{
+    margin: 35px;
+}
+h3{
+    margin: 20px;
+}
+
+.gamestyle{
+    margin: 5px;
+    padding: 5px;
+}
