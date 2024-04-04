@@ -22,6 +22,7 @@ h3{
 }
 
 .gamestyle{
-    margin: 5px;
-    padding: 5px;
+    margin: 5%;
+    padding: 5%;
+    border-style: double;
 }
